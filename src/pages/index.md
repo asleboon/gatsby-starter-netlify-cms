@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Asle sin blogg
-image: /img/profil2.jpg
-heading: Dette er en tittel
 subheading: Blogg om alt og ingenting
+image: /img/profil1.png
+heading: Dette er en tittel
 mainpitch:
   title: Hvorfor blogg?
   description: |-
