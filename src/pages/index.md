@@ -16,7 +16,7 @@ description: >-
   Morbi sit amet porta orci. Morbi ultricies arcu quis bibendum egestas. Aliquam
   sagittis quis purus id hendrerit. Aliquam consequat et mauris ut ultricies.
   Nam non porttitor orci. Sed vitae imperdiet purus. Interdum et malesuada fames
-  ac ante ipsum primis in faucibus. 
+  ac ante ipsum primis in faucibus.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -54,7 +54,7 @@ intro:
     Morbi sit amet porta orci. Morbi ultricies arcu quis bibendum egestas.
     Aliquam sagittis quis purus id hendrerit. Aliquam consequat et mauris ut
     ultricies. Nam non porttitor orci. Sed vitae imperdiet purus. Interdum et
-    malesuada fames ac ante ipsum primis in faucibus. 
+    malesuada fames ac ante ipsum primis in faucibus.
 main:
   heading: Enda en tittel part 2
   description: >
@@ -64,7 +64,7 @@ main:
     Morbi sit amet porta orci. Morbi ultricies arcu quis bibendum egestas.
     Aliquam sagittis quis purus id hendrerit. Aliquam consequat et mauris ut
     ultricies. Nam non porttitor orci. Sed vitae imperdiet purus. Interdum et
-    malesuada fames ac ante ipsum primis in faucibus. 
+    malesuada fames ac ante ipsum primis in faucibus.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -75,4 +75,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
