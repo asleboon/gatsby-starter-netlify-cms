@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Hyttår 2019
 subheading: FÅ DET PÅ!
-image: /img/newyear2.jpg
+image: /img/newyear4.jpg
 heading: Ka skjer på nyttår?
 mainpitch:
-  title: La oss festa inn året
+  title: La oss festa inn det nya året
   description: Hyttå e booka og Sinnes Arena e bekrefta holde åpent
 description: 'Det blir god mad og drikke. '
 intro:
