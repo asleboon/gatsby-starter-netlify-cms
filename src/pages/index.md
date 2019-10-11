@@ -1,22 +1,13 @@
 ---
 templateKey: index-page
-title: Asle sin blogg
-image: /img/profil2.jpg
-heading: Dette er en tittel
-subheading: Blogg om alt og ingenting
+title: Hyttår 2019
+subheading: FÅ DET PÅ!
+image: /img/newyear2.jpg
+heading: Ka skjer på nyttår?
 mainpitch:
-  title: Hvorfor blogg?
-  description: |-
-    Har ikke peiling. Har egentlig ingenting å skrive om her...
-    Men hvorfor ikke.
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque
-  libero quis erat sodales efficitur. Nunc neque tortor, tempus eget blandit
-  vel, ullamcorper nec turpis. Vestibulum aliquam tortor ac suscipit congue.
-  Morbi sit amet porta orci. Morbi ultricies arcu quis bibendum egestas. Aliquam
-  sagittis quis purus id hendrerit. Aliquam consequat et mauris ut ultricies.
-  Nam non porttitor orci. Sed vitae imperdiet purus. Interdum et malesuada fames
-  ac ante ipsum primis in faucibus.
+  title: La oss festa inn året
+  description: Hyttå e booka og Sinnes Arena e bekrefta holde åpent
+description: 'Det blir god mad og drikke. '
 intro:
   blurbs:
     - image: /img/coffee.png
