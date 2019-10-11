@@ -10,11 +10,11 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/jazucci.jpg
-      text: Jacuzzien har plass det mange fler enn dåkk tror
+    - image: /img/jazucci.png
+      text: Jacuzzien har plass det mange fler enn dåkk tror!
     - image: /img/god_mat.jpg
       text: Det meldes om god mat
-    - image: /img/drikka.jpg
+    - image: /img/drikka.png
       text: Det ska drikkas. Hvis ikkje Jone komme så må någen drikka for han og.
     - image: /img/asle_fest.png
       text: Kjøra det opp!
