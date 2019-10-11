@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Asle sin blogg
-subheading: Blogg om alt og ingenting
+title: Hyttår 2019
+subheading: FÅ DET PÅ!
 image: /img/newyear.jpg
 heading: Dette er en tittel
 mainpitch:
